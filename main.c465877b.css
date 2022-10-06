@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;padding:0}.stopwatch__min-hand{width:10px;height:100px;background-color:green;border-radius:5px;animation:watch 3600s linear infinite;transform-origin:bottom}.stopwatch__sec-hand{width:7px;height:150px;background-color:red;border-radius:5px;animation:watch 60s linear infinite;transform-origin:top;animation-delay:-30s}.page{display:flex;align-items:center;justify-content:center;height:100vh}@keyframes watch{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.c465877b.css.map */
